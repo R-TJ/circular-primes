@@ -1,0 +1,7 @@
+{
+  "name": "circularprimes",
+  "version-string": "1.0.0",
+  "dependencies": [
+    "boost-multiprecision"
+  ]
+}
