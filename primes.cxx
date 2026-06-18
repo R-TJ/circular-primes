@@ -80,11 +80,7 @@ int main(int argc, char* argv[])
 
 	n = boost::multiprecision::pow((cpp_int)10, std::stoi(argv[2]));
 
-	for(;;)
-     	{
 		std::cin.get();
-	break;
-	}
 
 	running = false;
 
